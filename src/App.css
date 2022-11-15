@@ -23,7 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.para{
+  color:red;
+}
+.test{
+  margin-top:4px;
+}
 .App-link {
   color: #61dafb;
 }
